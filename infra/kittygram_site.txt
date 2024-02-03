@@ -1,0 +1,5 @@
+IP: 84.201.139.141 ;
+name_taski: https://magic-212.ddns.net/ ;
+name_kittygram: https://kittygram-212.ddns.net ;
+login: User_1 ;
+password: 123456 ;
